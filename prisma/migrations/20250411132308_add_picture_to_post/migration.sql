@@ -1,0 +1,6 @@
+-- AlterTable
+ALTER TABLE "Post" ADD COLUMN     "picture" TEXT,
+ALTER COLUMN "likes" DROP NOT NULL,
+ALTER COLUMN "likes" SET DEFAULT 0,
+ALTER COLUMN "dislikes" DROP NOT NULL,
+ALTER COLUMN "dislikes" SET DEFAULT 0;

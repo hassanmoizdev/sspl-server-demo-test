@@ -1,0 +1,702 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Account {
+  id       Int           @id @default(autoincrement())
+  mem_no   String?       @default("")
+  email    String        @unique
+  phone    String
+  password String
+  status   AccountStatus @default(PENDING)
+
+  created_at DateTime @default(now())
+  updated_at DateTime @updatedAt
+
+  memberships Membership[]
+  user        Person?
+}
+
+model Person {
+  id              Int     @id @default(autoincrement())
+  prefix          String?
+  first_name      String
+  last_name       String?
+  gender          Gender?
+  acc_id          Int?    @unique
+  device_token    String? // FCM/APNs token for push notifications
+  device_platform String? // 'ios' or 'android'
+
+  account              Account?                  @relation(fields: [acc_id], references: [id], onDelete: Cascade)
+  profiles             Profile[]
+  conferences          Conference[]
+  guests               Guest[]                   @relation("GuestPerson")
+  created_guests       Guest[]                   @relation("GuestCreator")
+  venues               Venue[]
+  attendance           Attendee[]                @relation("AttendedSessions")
+  reviewed_attendance  Attendee[]                @relation("ReviewedAttendances")
+  questionnaires       Questionnaire[]
+  feedback_submissions QuestionnaireSubmission[]
+  Post                 Post[]
+  PostLiking           PostLiking[]
+  Vote                 Vote[]
+  comments             Comment[]
+  abstractSubmission   AbstractSubmission[]
+  exhibitionsStall     ExhibitionStall[]
+  transaction_history  TransactionHistory[]
+  certificates         Certificate[]
+  scenarios            Scenario[]
+}
+
+model Organization {
+  id         Int      @id @default(autoincrement())
+  name       String
+  overview   String?
+  slug       String   @unique
+  created_at DateTime @default(now())
+  updated_at DateTime @updatedAt
+
+  memberships    Membership[]
+  conferences    Conference[]
+  questionnaires Questionnaire[]
+  venues         Venue[]
+  profiles       Profile[]
+  guests         Guest[]
+  scenarios      Scenario[]
+}
+
+model Guest {
+  id            Int          @id @default(autoincrement())
+  email         String?
+  person_id     Int
+  active_status ActiveStatus @default(ACTIVE)
+  creator_id    Int
+  org_id        Int
+  created_at    DateTime     @default(now())
+  updated_at    DateTime     @updatedAt
+
+  person     Person       @relation("GuestPerson", fields: [person_id], references: [id], onDelete: Cascade)
+  org        Organization @relation(fields: [org_id], references: [id], onDelete: Cascade)
+  sessions   TimeSlot[]
+  created_by Person       @relation("GuestCreator", fields: [creator_id], references: [id], onDelete: Cascade)
+}
+
+model Membership {
+  id         Int       @id @default(autoincrement())
+  expires_at DateTime?
+  plan_id    Int?
+  role       Role      @default(USER)
+  acc_id     Int
+  org_id     Int
+  status     Status    @default(PENDING)
+  created_at DateTime  @default(now())
+  updated_at DateTime  @updatedAt
+
+  account        Account         @relation(fields: [acc_id], references: [id], onDelete: Cascade)
+  org            Organization    @relation(fields: [org_id], references: [id], onDelete: Cascade)
+  membershipPlan MembershipPlan? @relation(fields: [plan_id], references: [id])
+
+  transaction_history TransactionHistory[]
+
+  @@unique([acc_id, org_id])
+}
+
+model Profile {
+  title       String?
+  overview    String?
+  pmdc_number String?
+  institute   String?
+  country     String?
+  org_number  String?
+  owner_id    Int
+  org_id      Int
+  city        String? @default("")
+  address     String? @default("")
+  hospital    String? @default("")
+
+  contact Contact?
+  owner   Person       @relation(fields: [owner_id], references: [id], onDelete: Cascade)
+  org     Organization @relation(fields: [org_id], references: [id], onDelete: Cascade)
+
+  @@unique([owner_id, org_id])
+}
+
+model Contact {
+  email     String?
+  phone     String?
+  whatsapp  String?
+  skype     String?
+  twitter   String?
+  person_id Int
+  org_id    Int
+
+  profile Profile @relation(fields: [person_id, org_id], references: [owner_id, org_id], onDelete: Cascade)
+
+  @@unique([person_id, org_id])
+}
+
+model Conference {
+  id            Int            @id @default(autoincrement())
+  type          ConferenceType
+  title         String
+  summary       String
+  allow         String[]       @default(["ALL"])
+  start_date    DateTime
+  end_date      DateTime
+  web_link      String?
+  venue_id      Int?
+  active_status ActiveStatus   @default(ACTIVE)
+  is_active     Boolean        @default(true)
+  creator_id    Int
+  org_id        Int
+  created_at    DateTime       @default(now())
+  updated_at    DateTime       @updatedAt
+
+  venue                Venue?                    @relation(fields: [venue_id], references: [id])
+  sessions             Session[]
+  abstracts            AbstractSubmission[]
+  feedback_form        Questionnaire?
+  feedback_submissions QuestionnaireSubmission[]
+  add_on_sets          AddOnsSet[]
+  created_by           Person                    @relation(fields: [creator_id], references: [id], onDelete: Cascade)
+  org                  Organization              @relation(fields: [org_id], references: [id], onDelete: Cascade)
+}
+
+model AddOnsSet {
+  id            Int     @id @default(autoincrement())
+  title         String?
+  conference_id Int
+
+  add_ons    AddOn[]
+  conference Conference @relation(fields: [conference_id], references: [id], onDelete: Cascade)
+}
+
+model AddOn {
+  id             Int     @id @default(autoincrement())
+  title          String?
+  subtitle       String?
+  add_ons_set_id Int
+
+  add_ons_set AddOnsSet @relation(fields: [add_ons_set_id], references: [id], onDelete: Cascade)
+}
+
+model Session {
+  id            Int       @id @default(autoincrement())
+  title         String
+  summary       String?
+  venue_id      Int?
+  web_link      String?
+  is_break      Boolean?  @default(false)
+  starts_at     DateTime?
+  ends_at       DateTime?
+  conference_id Int
+
+  add_on_sets          SessionMetaSet[]
+  venue                Venue?                    @relation(fields: [venue_id], references: [id])
+  breakdown            TimeSlot[]
+  feedback_submissions QuestionnaireSubmission[]
+  attendees            Attendee[]
+  conference           Conference                @relation(fields: [conference_id], references: [id], onDelete: Cascade)
+  certificates         Certificate[]
+}
+
+model SessionMetaSet {
+  id         Int     @id @default(autoincrement())
+  title      String?
+  session_id Int
+
+  add_ons SessionMeta[]
+  session Session       @relation(fields: [session_id], references: [id], onDelete: Cascade)
+}
+
+model SessionMeta {
+  id                  Int     @id @default(autoincrement())
+  title               String?
+  subtitle            String?
+  session_meta_set_id Int
+
+  session_meta_set SessionMetaSet @relation(fields: [session_meta_set_id], references: [id], onDelete: Cascade)
+}
+
+model TimeSlot {
+  id         Int      @id @default(autoincrement())
+  starts_at  DateTime
+  ends_at    DateTime
+  title      String
+  is_break   Boolean? @default(false)
+  session_id Int
+
+  speakers Guest[]
+  session  Session @relation(fields: [session_id], references: [id], onDelete: Cascade)
+}
+
+model Venue {
+  id            Int          @id @default(autoincrement())
+  title         String
+  address       String
+  lat           Float
+  lng           Float
+  radius        Float?       @default(0)
+  active_status ActiveStatus @default(ACTIVE)
+  creator_id    Int
+  org_id        Int
+  created_at    DateTime     @default(now())
+  updated_at    DateTime     @updatedAt
+
+  conferences Conference[]
+  sessions    Session[]
+  created_by  Person       @relation(fields: [creator_id], references: [id], onDelete: Cascade)
+  org         Organization @relation(fields: [org_id], references: [id], onDelete: Cascade)
+}
+
+model Attendee {
+  person_id        Int
+  session_id       Int
+  picture          String?
+  status           ReviewStatus @default(PENDING)
+  reviewer_comment String?
+  reviewer_id      Int?
+  conference_id    Int
+  created_at       DateTime     @default(now())
+  updated_at       DateTime     @updatedAt
+
+  person   Person  @relation("AttendedSessions", fields: [person_id], references: [id], onDelete: Cascade)
+  session  Session @relation(fields: [session_id], references: [id], onDelete: Cascade)
+  reviewer Person? @relation("ReviewedAttendances", fields: [reviewer_id], references: [id])
+
+  @@unique([person_id, session_id])
+}
+
+model Questionnaire {
+  id            Int      @id @default(autoincrement())
+  title         String?
+  description   String?
+  conference_id Int?     @unique
+  created_at    DateTime @default(now())
+  updated_at    DateTime @updatedAt
+  creator_id    Int
+  org_id        Int
+
+  question_groups QuestionGroup[]
+  conference      Conference?     @relation(fields: [conference_id], references: [id], onDelete: Cascade)
+  created_by      Person          @relation(fields: [creator_id], references: [id], onDelete: Cascade)
+  org             Organization    @relation(fields: [org_id], references: [id], onDelete: Cascade)
+}
+
+model QuestionGroup {
+  id               Int     @id @default(autoincrement())
+  title            String?
+  description      String?
+  questionnaire_id Int
+
+  questions     Question[]
+  questionnaire Questionnaire @relation(fields: [questionnaire_id], references: [id], onDelete: Cascade)
+}
+
+model Question {
+  id                 Int     @id @default(autoincrement())
+  statement          String?
+  description        String?
+  type               String? @default("COMMENT")
+  parent_question_id Int?
+  question_group_id  Int?
+
+  options         QuestionResponseOption[]
+  statements      Question[]               @relation("ParentChild")
+  parent_question Question?                @relation("ParentChild", fields: [parent_question_id], references: [id], onDelete: Cascade)
+  question_group  QuestionGroup?           @relation(fields: [question_group_id], references: [id], onDelete: Cascade)
+  responses       QuestionResponse[]
+}
+
+model QuestionResponseOption {
+  id          Int     @id @default(autoincrement())
+  label       String?
+  value       String
+  question_id Int
+
+  question Question @relation(fields: [question_id], references: [id], onDelete: Cascade)
+}
+
+model QuestionnaireSubmission {
+  id            Int  @id @default(autoincrement())
+  submitter_id  Int
+  session_id    Int?
+  conference_id Int?
+
+  submitted_by Person             @relation(fields: [submitter_id], references: [id], onDelete: Cascade)
+  responses    QuestionResponse[]
+  session      Session?           @relation(fields: [session_id], references: [id], onDelete: Cascade)
+  conference   Conference?        @relation(fields: [conference_id], references: [id], onDelete: Cascade)
+}
+
+model QuestionResponse {
+  value         String?
+  question_id   Int
+  submission_id Int
+  created_at    DateTime @default(now())
+  updated_at    DateTime @updatedAt
+
+  question   Question                @relation(fields: [question_id], references: [id], onDelete: Cascade)
+  submission QuestionnaireSubmission @relation(fields: [submission_id], references: [id])
+
+  @@unique([submission_id, question_id])
+}
+
+model Post {
+  id            Int          @id @default(autoincrement())
+  text          String?
+  creator_id    Int
+  picture       String?
+  report_count  Int?         @default(0)
+  active_status ActiveStatus @default(ACTIVE)
+  comments      Comment[]
+  postLiking    PostLiking[]
+
+  creator    Person   @relation(fields: [creator_id], references: [id], onDelete: Cascade)
+  created_at DateTime @default(now())
+  updated_at DateTime @updatedAt
+}
+
+model Comment {
+  id         Int     @id @default(autoincrement())
+  text       String?
+  post_id    Int
+  creator_id Int
+
+  post    Post   @relation(fields: [post_id], references: [id], onDelete: Cascade)
+  creator Person @relation(fields: [creator_id], references: [id], onDelete: Cascade)
+
+  created_at DateTime @default(now())
+  updated_at DateTime @updatedAt
+}
+
+model PostLiking {
+  id         Int      @id @default(autoincrement())
+  like       Boolean?
+  post_id    Int
+  creator_id Int
+
+  post    Post   @relation(fields: [post_id], references: [id], onDelete: Cascade)
+  creator Person @relation(fields: [creator_id], references: [id], onDelete: Cascade)
+
+  created_at DateTime @default(now())
+  updated_at DateTime @updatedAt
+}
+
+model Poll {
+  id         Int      @id @default(autoincrement())
+  title      String
+  allow      String   @default("ALL")
+  starts_at  String   @default("")
+  expires_at String   @default("")
+  options    Option[]
+  votes      Vote[]
+  created_at DateTime @default(now())
+  updated_at DateTime @updatedAt
+}
+
+model Meeting {
+  id      Int    @id @default(autoincrement())
+  title   String
+  allow   String @default("ALL")
+  start   String @default("")
+  end     String
+  url     String
+  summary String
+
+  abstracts AbstractSubmission[]
+
+  created_at DateTime @default(now())
+  updated_at DateTime @updatedAt
+}
+
+model Option {
+  id         Int      @id @default(autoincrement())
+  text       String
+  poll_id    Int
+  poll       Poll     @relation(fields: [poll_id], references: [id], onDelete: Cascade)
+  votes      Vote[]
+  created_at DateTime @default(now())
+  updated_at DateTime @updatedAt
+}
+
+model Vote {
+  id         Int      @id @default(autoincrement())
+  creator_id Int
+  poll_id    Int
+  option_id  Int
+  creator    Person   @relation(fields: [creator_id], references: [id], onDelete: Cascade)
+  option     Option   @relation(fields: [option_id], references: [id])
+  poll       Poll     @relation(fields: [poll_id], references: [id])
+  created_at DateTime @default(now())
+  updated_at DateTime @updatedAt
+
+  @@unique([creator_id, poll_id])
+}
+
+model MembershipPlan {
+  id         Int      @id @default(autoincrement())
+  name       String
+  fees       Int
+  type       PlanType @default(MONTH)
+  created_at DateTime @default(now())
+  updated_at DateTime @updatedAt
+
+  memberships Membership[]
+}
+
+model AbstractSubmission {
+  id           Int          @id @default(autoincrement())
+  creator_id   Int
+  title        String
+  authors      String
+  affiliations String
+  fileUrl      String
+  status       ReviewStatus @default(PENDING)
+  conferenceId Int?
+  conference   Conference?  @relation(fields: [conferenceId], references: [id])
+  meetingId    Int?
+  meeting      Meeting?     @relation(fields: [meetingId], references: [id])
+  creator      Person       @relation(fields: [creator_id], references: [id], onDelete: Cascade)
+
+  created_at DateTime @default(now())
+  updated_at DateTime @updatedAt
+}
+
+model ExhibitionStall {
+  id             Int             @id @default(autoincrement())
+  creator_id     Int
+  stall_no       String?
+  category       SponsorCategory @default(BASIC)
+  company_name   String
+  company_logo   String?         @default("")
+  contact_person String
+  contact_num    String          @default("")
+  email          String
+  products       Product[]
+  status         ReviewStatus    @default(PENDING)
+
+  creator Person @relation(fields: [creator_id], references: [id], onDelete: Cascade)
+
+  created_at DateTime @default(now())
+  updated_at DateTime @updatedAt
+}
+
+model Product {
+  id          Int              @id @default(autoincrement())
+  name        String
+  description String?
+  stall       ExhibitionStall? @relation(fields: [stall_id], references: [id])
+  stall_id    Int?
+}
+
+model TransactionHistory {
+  id            Int  @id @default(autoincrement())
+  payer_id      Int
+  membership_id Int?
+
+  mode_of_payment PaymentMode?
+  bank_name       String?
+  transaction_id  String?
+
+  status PaymentStatus @default(PENDING)
+
+  payer      Person      @relation(fields: [payer_id], references: [id], onDelete: Cascade)
+  membership Membership? @relation(fields: [membership_id], references: [id])
+
+  created_at DateTime @default(now())
+  updated_at DateTime @updatedAt
+}
+
+model Certificate {
+  id           Int      @id @default(autoincrement())
+  personId     Int
+  sessionId    Int?
+  fileUrl      String
+  serialNumber String   @unique
+  issuedAt     DateTime @default(now())
+
+  user    Person   @relation(fields: [personId], references: [id])
+  session Session? @relation(fields: [sessionId], references: [id])
+}
+
+model Scenario {
+  id          Int      @id @default(autoincrement())
+  title       String
+  description String?
+  created_at  DateTime @default(now())
+  updated_at  DateTime @updatedAt
+  creator_id  Int
+  org_id      Int
+
+  questions ScenarioQuestion[]
+  sessions  ScenarioSession[]
+  creator   Person             @relation(fields: [creator_id], references: [id], onDelete: Cascade)
+  org       Organization       @relation(fields: [org_id], references: [id], onDelete: Cascade)
+}
+
+model ScenarioQuestion {
+  id          Int     @id @default(autoincrement())
+  scenario_id Int
+  statement   String
+  description String?
+  type        String  @default("CHOICE") // CHOICE, TRUE_FALSE
+  order       Int     @default(0)
+
+  scenario  Scenario           @relation(fields: [scenario_id], references: [id], onDelete: Cascade)
+  options   ScenarioOption[]
+  responses ScenarioResponse[]
+}
+
+model ScenarioOption {
+  id          Int     @id @default(autoincrement())
+  question_id Int
+  label       String
+  is_correct  Boolean @default(false)
+
+  question          ScenarioQuestion   @relation(fields: [question_id], references: [id], onDelete: Cascade)
+  scenarioResponses ScenarioResponse[]
+}
+
+model ScenarioSession {
+  id                          Int       @id @default(autoincrement())
+  scenario_id                 Int
+  join_code                   String    @unique // Short readable code
+  status                      String    @default("PENDING") // PENDING, ACTIVE, COMPLETED
+  expires_at                  DateTime
+  started_at                  DateTime?
+  current_question_index      Int       @default(0)
+  current_question_started_at DateTime?
+  created_at                  DateTime  @default(now())
+  updated_at                  DateTime  @updatedAt
+
+  scenario     Scenario              @relation(fields: [scenario_id], references: [id], onDelete: Cascade)
+  participants ScenarioParticipant[]
+
+  @@index([join_code])
+  @@index([expires_at])
+}
+
+model ScenarioParticipant {
+  id              Int      @id @default(autoincrement())
+  session_id      Int
+  name            String
+  email           String
+  device_token    String? // FCM/APNs device token for push notifications
+  device_platform String? // 'ios' or 'android'
+  joined_at       DateTime @default(now())
+
+  session   ScenarioSession    @relation(fields: [session_id], references: [id], onDelete: Cascade)
+  responses ScenarioResponse[]
+}
+
+model ScenarioResponse {
+  id             Int      @id @default(autoincrement())
+  participant_id Int
+  question_id    Int
+  option_id      Int
+  created_at     DateTime @default(now())
+  submitted_at   DateTime @default(now())
+
+  participant ScenarioParticipant @relation(fields: [participant_id], references: [id], onDelete: Cascade)
+  question    ScenarioQuestion    @relation(fields: [question_id], references: [id], onDelete: Cascade)
+  option      ScenarioOption      @relation(fields: [option_id], references: [id], onDelete: Cascade)
+
+  @@unique([participant_id, question_id])
+}
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+enum PlanType {
+  MONTH
+  YEAR
+  LIFE
+}
+
+enum PaymentMode {
+  CASH
+  BANK
+}
+
+enum PaymentStatus {
+  PENDING
+  SUCCESS
+  FAILED
+  REFUNDED
+}
+
+enum SponsorCategory {
+  BASIC
+  GOLD
+  SILVER
+  BRONZE
+  PARTNER
+}
+
+enum QuestionTypes {
+  COMMENT
+  CHOICE
+  YESNO
+  EVALUATION
+}
+
+enum ActiveStatus {
+  ACTIVE
+  ARCHIVED
+  DELETED
+}
+
+enum ConferenceType {
+  WORKSHOP
+  PROGRAM
+}
+
+enum Gender {
+  MALE
+  FEMALE
+}
+
+enum Role {
+  USER
+  ADMIN
+  SUPER_ADMIN
+  OFFICE_BEARERS
+  LIFE_MEMBER
+  REGULAR_MEMBER
+}
+
+enum AccountStatus {
+  PENDING
+  ACTIVE
+  SUSPENDED
+  BANNED
+  DELETED
+}
+
+enum VerificationStatus {
+  PENDING
+  VERIFIED
+}
+
+enum ReviewStatus {
+  PENDING
+  ACCEPTED
+  REJECTED
+}
+
+enum Status {
+  PENDING
+  ACTIVE
+  REJECTED
+}

@@ -1,0 +1,14 @@
+
+services:
+  api:
+    volumes:
+      - "./prisma:/app/prisma"
+    develop:
+      watch:
+        - action: sync+restart
+          path: ./src
+          target: /app/src
+          
+        - action: rebuild
+          path: package.json
+          target: /app

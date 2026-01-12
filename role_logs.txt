@@ -1,0 +1,1339 @@
+[AUTH] 2026-01-06T14:39:30.536Z - Header: Present
+[AUTH] 2026-01-06T14:39:30.544Z - User: {"id":1,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T14:39:30.546Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T14:39:30.546Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T14:39:30.547Z - Role validation passed
+[AUTH] 2026-01-06T14:39:30.556Z - Header: Present
+[AUTH] 2026-01-06T14:39:30.558Z - User: {"id":1,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T14:39:30.559Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T14:39:30.559Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T14:39:30.559Z - Role validation passed
+[AUTH] 2026-01-06T14:39:42.723Z - Header: Present
+[AUTH] 2026-01-06T14:39:42.728Z - User: {"id":1,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T14:39:42.729Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T14:39:42.729Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T14:39:42.730Z - Role validation passed
+[AUTH] 2026-01-06T14:39:42.737Z - Header: Present
+[AUTH] 2026-01-06T14:39:42.739Z - User: {"id":1,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T14:39:42.740Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T14:39:42.741Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T14:39:42.741Z - Role validation passed
+[AUTH] 2026-01-06T14:39:43.611Z - Header: Present
+[AUTH] 2026-01-06T14:39:43.614Z - User: {"id":1,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T14:39:43.616Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T14:39:43.616Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T14:39:43.617Z - Role validation passed
+[AUTH] 2026-01-06T14:39:43.627Z - Header: Present
+[AUTH] 2026-01-06T14:39:43.630Z - User: {"id":1,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T14:39:43.631Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T14:39:43.631Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T14:39:43.632Z - Role validation passed
+[AUTH] 2026-01-06T14:39:44.609Z - Header: Present
+[AUTH] 2026-01-06T14:39:44.614Z - User: {"id":1,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T14:39:44.615Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T14:39:44.615Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T14:39:44.616Z - Role validation passed
+[AUTH] 2026-01-06T14:39:44.624Z - Header: Present
+[AUTH] 2026-01-06T14:39:44.628Z - User: {"id":1,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T14:39:44.628Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T14:39:44.628Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T14:39:44.629Z - Role validation passed
+[AUTH] 2026-01-06T14:41:41.612Z - Header: Present
+[AUTH] 2026-01-06T14:41:41.619Z - User: {"id":1,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T14:41:41.621Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T14:41:41.621Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T14:41:41.623Z - Role validation passed
+[AUTH] 2026-01-06T14:41:41.626Z - Header: Present
+[AUTH] 2026-01-06T14:41:41.629Z - User: {"id":1,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T14:41:41.631Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T14:41:41.633Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T14:41:41.640Z - Role validation passed
+[AUTH] 2026-01-06T14:42:14.107Z - Header: Present
+[AUTH] 2026-01-06T14:42:14.109Z - User: {"id":1,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T14:42:14.110Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T14:42:14.110Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T14:42:14.110Z - Role validation passed
+[AUTH] 2026-01-06T14:44:55.593Z - Header: Present
+[AUTH] 2026-01-06T14:44:55.612Z - User: {"id":1,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T14:44:55.613Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T14:44:55.613Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T14:44:55.614Z - Role validation passed
+[AUTH] 2026-01-06T14:44:55.625Z - Header: Present
+[AUTH] 2026-01-06T14:44:55.633Z - User: {"id":1,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T14:44:55.637Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T14:44:55.638Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T14:44:55.638Z - Role validation passed
+[AUTH] 2026-01-06T14:45:27.197Z - Header: Present
+[AUTH] 2026-01-06T14:45:27.198Z - User: {"id":1,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T14:45:27.198Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T14:45:27.199Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T14:45:27.199Z - Role validation passed
+[AUTH] 2026-01-06T14:46:05.519Z - Header: Present
+[AUTH] 2026-01-06T14:46:05.522Z - User: {"id":1,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T14:46:05.522Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T14:46:05.523Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T14:46:05.523Z - Role validation passed
+[AUTH] 2026-01-06T14:46:05.535Z - Header: Present
+[AUTH] 2026-01-06T14:46:05.538Z - User: {"id":1,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T14:46:05.539Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T14:46:05.540Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T14:46:05.540Z - Role validation passed
+[AUTH] 2026-01-06T14:46:18.287Z - Header: Present
+[AUTH] 2026-01-06T14:46:18.289Z - User: {"id":1,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T14:46:18.290Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T14:46:18.290Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T14:46:18.291Z - Role validation passed
+[AUTH] 2026-01-06T14:46:50.187Z - Header: Missing
+[AUTH] 2026-01-06T14:46:50.187Z - Error: Authentication required.
+[AUTH] 2026-01-06T14:46:50.977Z - Header: Missing
+[AUTH] 2026-01-06T14:46:50.977Z - Error: Authentication required.
+[AUTH] 2026-01-06T14:46:56.069Z - Header: Missing
+[AUTH] 2026-01-06T14:46:56.069Z - Error: Authentication required.
+[AUTH] 2026-01-06T14:46:56.600Z - Header: Missing
+[AUTH] 2026-01-06T14:46:56.601Z - Error: Authentication required.
+[AUTH] 2026-01-06T14:47:33.229Z - Header: Present
+[AUTH] 2026-01-06T14:47:33.231Z - User: {"id":1,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T14:47:33.232Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T14:47:33.232Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T14:47:33.232Z - Role validation passed
+[AUTH] 2026-01-06T14:47:33.320Z - Header: Present
+[AUTH] 2026-01-06T14:47:33.323Z - User: {"id":1,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T14:47:33.323Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T14:47:33.324Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T14:47:33.324Z - Role validation passed
+[AUTH] 2026-01-06T14:47:33.334Z - Header: Present
+[AUTH] 2026-01-06T14:47:33.336Z - User: {"id":1,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T14:47:33.336Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T14:47:33.337Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T14:47:33.337Z - Role validation passed
+[AUTH] 2026-01-06T14:49:10.271Z - Header: Present
+[AUTH] 2026-01-06T14:49:10.274Z - User: {"id":1,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T14:49:10.275Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T14:49:10.277Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T14:49:10.278Z - Role validation passed
+[AUTH] 2026-01-06T14:49:10.287Z - Header: Present
+[AUTH] 2026-01-06T14:49:10.289Z - User: {"id":1,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T14:49:10.290Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T14:49:10.290Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T14:49:10.292Z - Role validation passed
+[AUTH] 2026-01-06T14:49:26.667Z - Header: Present
+[AUTH] 2026-01-06T14:49:26.669Z - User: {"id":1,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T14:49:26.669Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T14:49:26.669Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T14:49:26.670Z - Role validation passed
+[AUTH] 2026-01-06T14:49:26.676Z - Header: Present
+[AUTH] 2026-01-06T14:49:26.679Z - User: {"id":1,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T14:49:26.680Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T14:49:26.683Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T14:49:26.684Z - Role validation passed
+[AUTH] 2026-01-06T14:50:20.601Z - Header: Present
+[AUTH] 2026-01-06T14:50:20.614Z - User: {"id":1,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T14:50:20.615Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T14:50:20.615Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T14:50:20.616Z - Role validation passed
+[AUTH] 2026-01-06T14:50:20.718Z - Header: Present
+[AUTH] 2026-01-06T14:50:20.721Z - User: {"id":1,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T14:50:20.722Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T14:50:20.723Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T14:50:20.725Z - Role validation passed
+[AUTH] 2026-01-06T14:52:09.511Z - Header: Present
+[AUTH] 2026-01-06T14:52:09.512Z - User: {"id":1,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T14:52:09.513Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T14:52:09.513Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T14:52:09.513Z - Role validation passed
+[AUTH] 2026-01-06T14:53:10.985Z - Header: Present
+[AUTH] 2026-01-06T14:53:10.987Z - User: {"id":1,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T14:53:10.987Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T14:53:10.987Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T14:53:10.988Z - Role validation passed
+[AUTH] 2026-01-06T14:53:11.046Z - Header: Present
+[AUTH] 2026-01-06T14:53:11.050Z - User: {"id":1,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T14:53:11.052Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T14:53:11.053Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T14:53:11.054Z - Role validation passed
+[AUTH] 2026-01-06T14:53:11.065Z - Header: Present
+[AUTH] 2026-01-06T14:53:11.068Z - User: {"id":1,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T14:53:11.068Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T14:53:11.069Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T14:53:11.070Z - Role validation passed
+[AUTH] 2026-01-06T15:02:00.207Z - Header: Present
+[AUTH] 2026-01-06T15:02:00.210Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[AUTH] 2026-01-06T15:02:00.222Z - Header: Present
+[AUTH] 2026-01-06T15:02:00.224Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[AUTH] 2026-01-06T15:02:02.840Z - Header: Present
+[AUTH] 2026-01-06T15:02:02.841Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[AUTH] 2026-01-06T15:02:02.851Z - Header: Present
+[AUTH] 2026-01-06T15:02:02.853Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[AUTH] 2026-01-06T15:02:02.859Z - Header: Present
+[AUTH] 2026-01-06T15:02:02.861Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[AUTH] 2026-01-06T15:02:02.865Z - Header: Present
+[AUTH] 2026-01-06T15:02:02.868Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[AUTH] 2026-01-06T15:02:03.253Z - Header: Present
+[AUTH] 2026-01-06T15:02:03.256Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:02:03.258Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:02:03.258Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:02:03.259Z - Role validation passed
+[AUTH] 2026-01-06T15:02:03.273Z - Header: Present
+[AUTH] 2026-01-06T15:02:03.276Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:02:03.276Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:02:03.276Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:02:03.277Z - Role validation passed
+[AUTH] 2026-01-06T15:02:37.118Z - Header: Present
+[AUTH] 2026-01-06T15:02:37.121Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:02:37.122Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:02:37.122Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:02:37.123Z - Role validation passed
+[AUTH] 2026-01-06T15:02:37.222Z - Header: Present
+[AUTH] 2026-01-06T15:02:37.229Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:02:37.230Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:02:37.230Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:02:37.231Z - Role validation passed
+[AUTH] 2026-01-06T15:02:37.242Z - Header: Present
+[AUTH] 2026-01-06T15:02:37.246Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:02:37.246Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:02:37.247Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:02:37.247Z - Role validation passed
+[AUTH] 2026-01-06T15:05:31.801Z - Header: Present
+[AUTH] 2026-01-06T15:05:31.803Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:05:31.803Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:05:31.804Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:05:31.804Z - Role validation passed
+[AUTH] 2026-01-06T15:05:44.749Z - Header: Present
+[AUTH] 2026-01-06T15:05:44.750Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:05:44.751Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:05:44.751Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:05:44.751Z - Role validation passed
+[AUTH] 2026-01-06T15:05:46.187Z - Header: Present
+[AUTH] 2026-01-06T15:05:46.189Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:05:46.189Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:05:46.189Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:05:46.190Z - Role validation passed
+[AUTH] 2026-01-06T15:05:46.669Z - Header: Present
+[AUTH] 2026-01-06T15:05:46.671Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:05:46.671Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:05:46.671Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:05:46.671Z - Role validation passed
+[AUTH] 2026-01-06T15:05:46.842Z - Header: Present
+[AUTH] 2026-01-06T15:05:46.844Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:05:46.844Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:05:46.844Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:05:46.845Z - Role validation passed
+[AUTH] 2026-01-06T15:11:02.363Z - Header: Present
+[AUTH] 2026-01-06T15:11:02.366Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:11:02.366Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:11:02.367Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:11:02.367Z - Role validation passed
+[AUTH] 2026-01-06T15:11:10.638Z - Header: Present
+[AUTH] 2026-01-06T15:11:10.639Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:11:10.640Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:11:10.640Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:11:10.640Z - Role validation passed
+[AUTH] 2026-01-06T15:11:11.837Z - Header: Present
+[AUTH] 2026-01-06T15:11:11.839Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:11:11.839Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:11:11.840Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:11:11.840Z - Role validation passed
+[AUTH] 2026-01-06T15:11:12.476Z - Header: Present
+[AUTH] 2026-01-06T15:11:12.481Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:11:12.484Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:11:12.484Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:11:12.484Z - Role validation passed
+[AUTH] 2026-01-06T15:11:27.532Z - Header: Present
+[AUTH] 2026-01-06T15:11:27.534Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:11:27.535Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:11:27.535Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:11:27.536Z - Role validation passed
+[AUTH] 2026-01-06T15:11:27.549Z - Header: Present
+[AUTH] 2026-01-06T15:11:27.552Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:11:27.553Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:11:27.553Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:11:27.554Z - Role validation passed
+[AUTH] 2026-01-06T15:11:40.466Z - Header: Present
+[AUTH] 2026-01-06T15:11:40.468Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:11:40.468Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:11:40.469Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:11:40.469Z - Role validation passed
+[AUTH] 2026-01-06T15:12:00.544Z - Header: Present
+[AUTH] 2026-01-06T15:12:00.546Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:12:00.547Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:12:00.547Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:12:00.547Z - Role validation passed
+[AUTH] 2026-01-06T15:12:00.624Z - Header: Present
+[AUTH] 2026-01-06T15:12:00.626Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:12:00.627Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:12:00.628Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:12:00.629Z - Role validation passed
+[AUTH] 2026-01-06T15:12:00.639Z - Header: Present
+[AUTH] 2026-01-06T15:12:00.641Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:12:00.641Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:12:00.641Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:12:00.642Z - Role validation passed
+[AUTH] 2026-01-06T15:12:54.655Z - Header: Present
+[AUTH] 2026-01-06T15:12:54.657Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:12:54.657Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:12:54.658Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:12:54.658Z - Role validation passed
+[AUTH] 2026-01-06T15:12:54.664Z - Header: Present
+[AUTH] 2026-01-06T15:12:54.665Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:12:54.666Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:12:54.666Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:12:54.666Z - Role validation passed
+[AUTH] 2026-01-06T15:13:17.296Z - Header: Present
+[AUTH] 2026-01-06T15:13:17.298Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:13:17.299Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:13:17.299Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:13:17.300Z - Role validation passed
+[AUTH] 2026-01-06T15:13:17.309Z - Header: Present
+[AUTH] 2026-01-06T15:13:17.312Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:13:17.313Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:13:17.313Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:13:17.313Z - Role validation passed
+[AUTH] 2026-01-06T15:17:43.154Z - Header: Present
+[AUTH] 2026-01-06T15:17:43.159Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:17:43.160Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:17:43.160Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:17:43.161Z - Role validation passed
+[AUTH] 2026-01-06T15:17:43.209Z - Header: Present
+[AUTH] 2026-01-06T15:17:43.211Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:17:43.212Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:17:43.212Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:17:43.213Z - Role validation passed
+[AUTH] 2026-01-06T15:22:14.515Z - Header: Present
+[AUTH] 2026-01-06T15:22:14.518Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:22:14.519Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:22:14.519Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:22:14.520Z - Role validation passed
+[AUTH] 2026-01-06T15:22:14.539Z - Header: Present
+[AUTH] 2026-01-06T15:22:14.549Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:22:14.550Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:22:14.550Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:22:14.551Z - Role validation passed
+[AUTH] 2026-01-06T15:22:33.082Z - Header: Present
+[AUTH] 2026-01-06T15:22:33.084Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:22:33.085Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:22:33.085Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:22:33.085Z - Role validation passed
+[AUTH] 2026-01-06T15:22:47.018Z - Header: Present
+[AUTH] 2026-01-06T15:22:47.020Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:22:47.020Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:22:47.021Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:22:47.021Z - Role validation passed
+[AUTH] 2026-01-06T15:22:47.274Z - Header: Present
+[AUTH] 2026-01-06T15:22:47.279Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:22:47.280Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:22:47.281Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:22:47.281Z - Role validation passed
+[AUTH] 2026-01-06T15:22:47.292Z - Header: Present
+[AUTH] 2026-01-06T15:22:47.294Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:22:47.296Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:22:47.296Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:22:47.297Z - Role validation passed
+[AUTH] 2026-01-06T15:27:50.710Z - Header: Present
+[AUTH] 2026-01-06T15:27:50.713Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:27:50.713Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:27:50.713Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:27:50.714Z - Role validation passed
+[AUTH] 2026-01-06T15:27:50.854Z - Header: Present
+[AUTH] 2026-01-06T15:27:50.857Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:27:50.859Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:27:50.859Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:27:50.859Z - Role validation passed
+[AUTH] 2026-01-06T15:37:12.409Z - Header: Present
+[AUTH] 2026-01-06T15:37:12.413Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:37:12.414Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:37:12.414Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:37:12.415Z - Role validation passed
+[AUTH] 2026-01-06T15:37:12.560Z - Header: Present
+[AUTH] 2026-01-06T15:37:12.563Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:37:12.566Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:37:12.567Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:37:12.568Z - Role validation passed
+[AUTH] 2026-01-06T15:37:26.085Z - Header: Present
+[AUTH] 2026-01-06T15:37:26.087Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[AUTH] 2026-01-06T15:37:26.095Z - Header: Present
+[AUTH] 2026-01-06T15:37:26.096Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[AUTH] 2026-01-06T15:37:29.531Z - Header: Present
+[AUTH] 2026-01-06T15:37:29.533Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[AUTH] 2026-01-06T15:37:29.538Z - Header: Present
+[AUTH] 2026-01-06T15:37:29.540Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[AUTH] 2026-01-06T15:37:31.992Z - Header: Present
+[AUTH] 2026-01-06T15:37:31.997Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:37:31.998Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:37:31.998Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:37:31.998Z - Role validation passed
+[AUTH] 2026-01-06T15:37:32.010Z - Header: Present
+[AUTH] 2026-01-06T15:37:32.014Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:37:32.014Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:37:32.015Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:37:32.015Z - Role validation passed
+[AUTH] 2026-01-06T15:51:38.062Z - Header: Present
+[AUTH] 2026-01-06T15:51:38.064Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":2}
+[ROLE] 2026-01-06T15:51:38.064Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:51:38.065Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:51:38.065Z - Role validation passed
+[AUTH] 2026-01-06T15:52:14.817Z - Header: Present
+[AUTH] 2026-01-06T15:52:14.820Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[AUTH] 2026-01-06T15:52:14.829Z - Header: Present
+[AUTH] 2026-01-06T15:52:14.831Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[AUTH] 2026-01-06T15:52:24.289Z - Header: Present
+[AUTH] 2026-01-06T15:52:24.294Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[AUTH] 2026-01-06T15:52:24.308Z - Header: Present
+[AUTH] 2026-01-06T15:52:24.311Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[AUTH] 2026-01-06T15:52:28.029Z - Header: Present
+[AUTH] 2026-01-06T15:52:28.035Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:52:28.038Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:52:28.040Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:52:28.041Z - Role validation passed
+[AUTH] 2026-01-06T15:52:28.059Z - Header: Present
+[AUTH] 2026-01-06T15:52:28.064Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:52:28.065Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:52:28.066Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:52:28.066Z - Role validation passed
+[AUTH] 2026-01-06T15:52:38.774Z - Header: Present
+[AUTH] 2026-01-06T15:52:38.776Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:52:38.777Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:52:38.777Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:52:38.778Z - Role validation passed
+[AUTH] 2026-01-06T15:52:38.899Z - Header: Present
+[AUTH] 2026-01-06T15:52:38.903Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:52:38.904Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:52:38.904Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:52:38.905Z - Role validation passed
+[AUTH] 2026-01-06T15:52:38.914Z - Header: Present
+[AUTH] 2026-01-06T15:52:38.919Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:52:38.920Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:52:38.921Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:52:38.921Z - Role validation passed
+[AUTH] 2026-01-06T15:52:44.399Z - Header: Present
+[AUTH] 2026-01-06T15:52:44.401Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:52:44.401Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:52:44.402Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:52:44.402Z - Role validation passed
+[AUTH] 2026-01-06T15:52:49.089Z - Header: Missing
+[AUTH] 2026-01-06T15:52:49.090Z - Error: Authentication required.
+[AUTH] 2026-01-06T15:52:49.495Z - Header: Missing
+[AUTH] 2026-01-06T15:52:49.496Z - Error: Authentication required.
+[AUTH] 2026-01-06T15:52:59.782Z - Header: Present
+[AUTH] 2026-01-06T15:52:59.785Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:52:59.786Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:52:59.786Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:52:59.787Z - Role validation passed
+[AUTH] 2026-01-06T15:52:59.954Z - Header: Present
+[AUTH] 2026-01-06T15:52:59.957Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:52:59.958Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:52:59.958Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:52:59.959Z - Role validation passed
+[AUTH] 2026-01-06T15:52:59.979Z - Header: Present
+[AUTH] 2026-01-06T15:52:59.981Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:52:59.981Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:52:59.982Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:52:59.982Z - Role validation passed
+[AUTH] 2026-01-06T15:53:03.102Z - Header: Present
+[AUTH] 2026-01-06T15:53:03.104Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:53:03.105Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:53:03.105Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:53:03.106Z - Role validation passed
+[AUTH] 2026-01-06T15:53:05.367Z - Header: Present
+[AUTH] 2026-01-06T15:53:05.369Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:53:05.371Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:53:05.371Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:53:05.371Z - Role validation passed
+[AUTH] 2026-01-06T15:53:05.395Z - Header: Present
+[AUTH] 2026-01-06T15:53:05.397Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:53:05.397Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:53:05.397Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:53:05.398Z - Role validation passed
+[AUTH] 2026-01-06T15:53:10.430Z - Header: Present
+[AUTH] 2026-01-06T15:53:10.432Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:53:10.432Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:53:10.432Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:53:10.432Z - Role validation passed
+[AUTH] 2026-01-06T15:53:15.456Z - Header: Present
+[AUTH] 2026-01-06T15:53:15.458Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:53:15.458Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:53:15.458Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:53:15.458Z - Role validation passed
+[AUTH] 2026-01-06T15:53:20.490Z - Header: Present
+[AUTH] 2026-01-06T15:53:20.492Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:53:20.492Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:53:20.493Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:53:20.493Z - Role validation passed
+[AUTH] 2026-01-06T15:53:21.460Z - Header: Present
+[AUTH] 2026-01-06T15:53:21.465Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:53:21.465Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:53:21.467Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:53:21.468Z - Role validation passed
+[AUTH] 2026-01-06T15:53:21.491Z - Header: Present
+[AUTH] 2026-01-06T15:53:21.493Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:53:21.494Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:53:21.494Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:53:21.495Z - Role validation passed
+[AUTH] 2026-01-06T15:53:26.313Z - Header: Present
+[AUTH] 2026-01-06T15:53:26.316Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:53:26.318Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:53:26.318Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:53:26.319Z - Role validation passed
+[AUTH] 2026-01-06T15:53:26.341Z - Header: Present
+[AUTH] 2026-01-06T15:53:26.346Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:53:26.347Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:53:26.350Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:53:26.350Z - Role validation passed
+[AUTH] 2026-01-06T15:53:50.500Z - Header: Present
+[AUTH] 2026-01-06T15:53:50.502Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:53:50.502Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:53:50.503Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:53:50.503Z - Role validation passed
+[AUTH] 2026-01-06T15:53:50.581Z - Header: Present
+[AUTH] 2026-01-06T15:53:50.584Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:53:50.585Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:53:50.585Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:53:50.586Z - Role validation passed
+[AUTH] 2026-01-06T15:53:50.612Z - Header: Present
+[AUTH] 2026-01-06T15:53:50.615Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:53:50.615Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:53:50.616Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:53:50.616Z - Role validation passed
+[AUTH] 2026-01-06T15:53:56.896Z - Header: Present
+[AUTH] 2026-01-06T15:53:56.898Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:53:56.898Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:53:56.898Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:53:56.898Z - Role validation passed
+[AUTH] 2026-01-06T15:54:01.194Z - Header: Present
+[AUTH] 2026-01-06T15:54:01.196Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:54:01.197Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:54:01.198Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:54:01.198Z - Role validation passed
+[AUTH] 2026-01-06T15:54:01.213Z - Header: Present
+[AUTH] 2026-01-06T15:54:01.216Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:54:01.217Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:54:01.217Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:54:01.217Z - Role validation passed
+[AUTH] 2026-01-06T15:54:06.248Z - Header: Present
+[AUTH] 2026-01-06T15:54:06.252Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:54:06.252Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:54:06.253Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:54:06.253Z - Role validation passed
+[AUTH] 2026-01-06T15:54:11.623Z - Header: Present
+[AUTH] 2026-01-06T15:54:11.625Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:54:11.625Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:54:11.625Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:54:11.626Z - Role validation passed
+[AUTH] 2026-01-06T15:54:17.627Z - Header: Present
+[AUTH] 2026-01-06T15:54:17.629Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:54:17.630Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:54:17.630Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:54:17.631Z - Role validation passed
+[AUTH] 2026-01-06T15:54:23.620Z - Header: Present
+[AUTH] 2026-01-06T15:54:23.621Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:54:23.621Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:54:23.622Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:54:23.622Z - Role validation passed
+[AUTH] 2026-01-06T15:54:24.709Z - Header: Present
+[AUTH] 2026-01-06T15:54:24.711Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:54:24.712Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:54:24.713Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:54:24.713Z - Role validation passed
+[AUTH] 2026-01-06T15:54:29.633Z - Header: Present
+[AUTH] 2026-01-06T15:54:29.634Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:54:29.635Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:54:29.635Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:54:29.635Z - Role validation passed
+[AUTH] 2026-01-06T15:54:35.633Z - Header: Present
+[AUTH] 2026-01-06T15:54:35.634Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:54:35.635Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:54:35.635Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:54:35.635Z - Role validation passed
+[AUTH] 2026-01-06T15:54:41.635Z - Header: Present
+[AUTH] 2026-01-06T15:54:41.637Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:54:41.638Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:54:41.639Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:54:41.642Z - Role validation passed
+[AUTH] 2026-01-06T15:54:47.630Z - Header: Present
+[AUTH] 2026-01-06T15:54:47.632Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:54:47.632Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:54:47.633Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:54:47.633Z - Role validation passed
+[AUTH] 2026-01-06T15:54:53.623Z - Header: Present
+[AUTH] 2026-01-06T15:54:53.624Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:54:53.624Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:54:53.624Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:54:53.624Z - Role validation passed
+[AUTH] 2026-01-06T15:54:59.632Z - Header: Present
+[AUTH] 2026-01-06T15:54:59.634Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:54:59.634Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:54:59.635Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:54:59.635Z - Role validation passed
+[AUTH] 2026-01-06T15:55:05.638Z - Header: Present
+[AUTH] 2026-01-06T15:55:05.639Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:55:05.640Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:55:05.640Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:55:05.640Z - Role validation passed
+[AUTH] 2026-01-06T15:55:11.621Z - Header: Present
+[AUTH] 2026-01-06T15:55:11.623Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:55:11.623Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:55:11.623Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:55:11.623Z - Role validation passed
+[AUTH] 2026-01-06T15:55:17.637Z - Header: Present
+[AUTH] 2026-01-06T15:55:17.639Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:55:17.639Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:55:17.639Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:55:17.639Z - Role validation passed
+[AUTH] 2026-01-06T15:55:23.635Z - Header: Present
+[AUTH] 2026-01-06T15:55:23.636Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:55:23.636Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:55:23.637Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:55:23.637Z - Role validation passed
+[AUTH] 2026-01-06T15:55:29.631Z - Header: Present
+[AUTH] 2026-01-06T15:55:29.632Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:55:29.633Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:55:29.633Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:55:29.633Z - Role validation passed
+[AUTH] 2026-01-06T15:55:35.630Z - Header: Present
+[AUTH] 2026-01-06T15:55:35.632Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:55:35.632Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:55:35.632Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:55:35.632Z - Role validation passed
+[AUTH] 2026-01-06T15:55:41.626Z - Header: Present
+[AUTH] 2026-01-06T15:55:41.628Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:55:41.628Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:55:41.628Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:55:41.629Z - Role validation passed
+[AUTH] 2026-01-06T15:55:47.633Z - Header: Present
+[AUTH] 2026-01-06T15:55:47.636Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:55:47.636Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:55:47.636Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:55:47.636Z - Role validation passed
+[AUTH] 2026-01-06T15:55:53.621Z - Header: Present
+[AUTH] 2026-01-06T15:55:53.623Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:55:53.623Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:55:53.623Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:55:53.623Z - Role validation passed
+[AUTH] 2026-01-06T15:55:59.632Z - Header: Present
+[AUTH] 2026-01-06T15:55:59.634Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:55:59.634Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:55:59.634Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:55:59.634Z - Role validation passed
+[AUTH] 2026-01-06T15:56:05.628Z - Header: Present
+[AUTH] 2026-01-06T15:56:05.630Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:56:05.631Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:56:05.631Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:56:05.631Z - Role validation passed
+[AUTH] 2026-01-06T15:56:11.629Z - Header: Present
+[AUTH] 2026-01-06T15:56:11.630Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:56:11.631Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:56:11.631Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:56:11.631Z - Role validation passed
+[AUTH] 2026-01-06T15:56:17.630Z - Header: Present
+[AUTH] 2026-01-06T15:56:17.631Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:56:17.631Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:56:17.631Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:56:17.632Z - Role validation passed
+[AUTH] 2026-01-06T15:56:23.622Z - Header: Present
+[AUTH] 2026-01-06T15:56:23.623Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:56:23.623Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:56:23.624Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:56:23.624Z - Role validation passed
+[AUTH] 2026-01-06T15:56:29.632Z - Header: Present
+[AUTH] 2026-01-06T15:56:29.634Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:56:29.634Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:56:29.634Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:56:29.634Z - Role validation passed
+[AUTH] 2026-01-06T15:56:35.633Z - Header: Present
+[AUTH] 2026-01-06T15:56:35.635Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:56:35.635Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:56:35.635Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:56:35.635Z - Role validation passed
+[AUTH] 2026-01-06T15:56:41.634Z - Header: Present
+[AUTH] 2026-01-06T15:56:41.635Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:56:41.636Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:56:41.636Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:56:41.636Z - Role validation passed
+[AUTH] 2026-01-06T15:56:47.622Z - Header: Present
+[AUTH] 2026-01-06T15:56:47.623Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:56:47.623Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:56:47.623Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:56:47.624Z - Role validation passed
+[AUTH] 2026-01-06T15:56:53.634Z - Header: Present
+[AUTH] 2026-01-06T15:56:53.636Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:56:53.636Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:56:53.636Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:56:53.636Z - Role validation passed
+[AUTH] 2026-01-06T15:56:59.624Z - Header: Present
+[AUTH] 2026-01-06T15:56:59.626Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:56:59.627Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:56:59.627Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:56:59.627Z - Role validation passed
+[AUTH] 2026-01-06T15:57:05.624Z - Header: Present
+[AUTH] 2026-01-06T15:57:05.626Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:57:05.626Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:57:05.626Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:57:05.627Z - Role validation passed
+[AUTH] 2026-01-06T15:57:11.631Z - Header: Present
+[AUTH] 2026-01-06T15:57:11.633Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:57:11.633Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:57:11.633Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:57:11.633Z - Role validation passed
+[AUTH] 2026-01-06T15:57:17.618Z - Header: Present
+[AUTH] 2026-01-06T15:57:17.620Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:57:17.620Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:57:17.621Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:57:17.621Z - Role validation passed
+[AUTH] 2026-01-06T15:57:23.622Z - Header: Present
+[AUTH] 2026-01-06T15:57:23.623Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:57:23.623Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:57:23.624Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:57:23.624Z - Role validation passed
+[AUTH] 2026-01-06T15:57:29.621Z - Header: Present
+[AUTH] 2026-01-06T15:57:29.623Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:57:29.623Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:57:29.623Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:57:29.623Z - Role validation passed
+[AUTH] 2026-01-06T15:57:35.627Z - Header: Present
+[AUTH] 2026-01-06T15:57:35.629Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:57:35.629Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:57:35.630Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:57:35.630Z - Role validation passed
+[AUTH] 2026-01-06T15:57:41.622Z - Header: Present
+[AUTH] 2026-01-06T15:57:41.624Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:57:41.624Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:57:41.625Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:57:41.625Z - Role validation passed
+[AUTH] 2026-01-06T15:57:47.630Z - Header: Present
+[AUTH] 2026-01-06T15:57:47.632Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:57:47.632Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:57:47.632Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:57:47.633Z - Role validation passed
+[AUTH] 2026-01-06T15:57:53.628Z - Header: Present
+[AUTH] 2026-01-06T15:57:53.629Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:57:53.629Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:57:53.629Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:57:53.629Z - Role validation passed
+[AUTH] 2026-01-06T15:57:59.632Z - Header: Present
+[AUTH] 2026-01-06T15:57:59.634Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:57:59.634Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:57:59.634Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:57:59.635Z - Role validation passed
+[AUTH] 2026-01-06T15:58:05.623Z - Header: Present
+[AUTH] 2026-01-06T15:58:05.624Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:58:05.624Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:58:05.625Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:58:05.625Z - Role validation passed
+[AUTH] 2026-01-06T15:58:11.621Z - Header: Present
+[AUTH] 2026-01-06T15:58:11.622Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:58:11.622Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:58:11.622Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:58:11.622Z - Role validation passed
+[AUTH] 2026-01-06T15:58:17.622Z - Header: Present
+[AUTH] 2026-01-06T15:58:17.623Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:58:17.624Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:58:17.624Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:58:17.624Z - Role validation passed
+[AUTH] 2026-01-06T15:58:23.625Z - Header: Present
+[AUTH] 2026-01-06T15:58:23.627Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:58:23.627Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:58:23.627Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:58:23.627Z - Role validation passed
+[AUTH] 2026-01-06T15:58:29.624Z - Header: Present
+[AUTH] 2026-01-06T15:58:29.626Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:58:29.626Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:58:29.626Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:58:29.627Z - Role validation passed
+[AUTH] 2026-01-06T15:58:35.622Z - Header: Present
+[AUTH] 2026-01-06T15:58:35.624Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:58:35.624Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:58:35.624Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:58:35.624Z - Role validation passed
+[AUTH] 2026-01-06T15:58:41.627Z - Header: Present
+[AUTH] 2026-01-06T15:58:41.628Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:58:41.628Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:58:41.629Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:58:41.629Z - Role validation passed
+[AUTH] 2026-01-06T15:58:47.626Z - Header: Present
+[AUTH] 2026-01-06T15:58:47.627Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:58:47.627Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:58:47.628Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:58:47.628Z - Role validation passed
+[AUTH] 2026-01-06T15:58:53.626Z - Header: Present
+[AUTH] 2026-01-06T15:58:53.627Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:58:53.627Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:58:53.627Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:58:53.627Z - Role validation passed
+[AUTH] 2026-01-06T15:58:59.631Z - Header: Present
+[AUTH] 2026-01-06T15:58:59.632Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:58:59.633Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:58:59.633Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:58:59.633Z - Role validation passed
+[AUTH] 2026-01-06T15:59:05.622Z - Header: Present
+[AUTH] 2026-01-06T15:59:05.623Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:59:05.623Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:59:05.624Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:59:05.624Z - Role validation passed
+[AUTH] 2026-01-06T15:59:11.634Z - Header: Present
+[AUTH] 2026-01-06T15:59:11.635Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:59:11.636Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:59:11.636Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:59:11.636Z - Role validation passed
+[AUTH] 2026-01-06T15:59:17.621Z - Header: Present
+[AUTH] 2026-01-06T15:59:17.622Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:59:17.623Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:59:17.623Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:59:17.623Z - Role validation passed
+[AUTH] 2026-01-06T15:59:23.624Z - Header: Present
+[AUTH] 2026-01-06T15:59:23.625Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:59:23.626Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:59:23.626Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:59:23.627Z - Role validation passed
+[AUTH] 2026-01-06T15:59:29.621Z - Header: Present
+[AUTH] 2026-01-06T15:59:29.623Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:59:29.629Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:59:29.629Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:59:29.630Z - Role validation passed
+[AUTH] 2026-01-06T15:59:35.626Z - Header: Present
+[AUTH] 2026-01-06T15:59:35.627Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:59:35.627Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:59:35.627Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:59:35.627Z - Role validation passed
+[AUTH] 2026-01-06T15:59:41.622Z - Header: Present
+[AUTH] 2026-01-06T15:59:41.624Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:59:41.625Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:59:41.625Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:59:41.625Z - Role validation passed
+[AUTH] 2026-01-06T15:59:47.624Z - Header: Present
+[AUTH] 2026-01-06T15:59:47.626Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:59:47.626Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:59:47.626Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:59:47.626Z - Role validation passed
+[AUTH] 2026-01-06T15:59:53.635Z - Header: Present
+[AUTH] 2026-01-06T15:59:53.637Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:59:53.637Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:59:53.637Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:59:53.637Z - Role validation passed
+[AUTH] 2026-01-06T15:59:59.631Z - Header: Present
+[AUTH] 2026-01-06T15:59:59.633Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T15:59:59.633Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T15:59:59.633Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T15:59:59.633Z - Role validation passed
+[AUTH] 2026-01-06T16:00:05.677Z - Header: Present
+[AUTH] 2026-01-06T16:00:05.679Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:00:05.680Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:00:05.680Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:00:05.680Z - Role validation passed
+[AUTH] 2026-01-06T16:00:11.633Z - Header: Present
+[AUTH] 2026-01-06T16:00:11.634Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:00:11.634Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:00:11.634Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:00:11.635Z - Role validation passed
+[AUTH] 2026-01-06T16:00:17.624Z - Header: Present
+[AUTH] 2026-01-06T16:00:17.626Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:00:17.627Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:00:17.627Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:00:17.627Z - Role validation passed
+[AUTH] 2026-01-06T16:00:23.631Z - Header: Present
+[AUTH] 2026-01-06T16:00:23.632Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:00:23.633Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:00:23.633Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:00:23.633Z - Role validation passed
+[AUTH] 2026-01-06T16:00:29.622Z - Header: Present
+[AUTH] 2026-01-06T16:00:29.624Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:00:29.624Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:00:29.624Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:00:29.625Z - Role validation passed
+[AUTH] 2026-01-06T16:00:35.622Z - Header: Present
+[AUTH] 2026-01-06T16:00:35.624Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:00:35.624Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:00:35.624Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:00:35.624Z - Role validation passed
+[AUTH] 2026-01-06T16:00:41.630Z - Header: Present
+[AUTH] 2026-01-06T16:00:41.632Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:00:41.633Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:00:41.633Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:00:41.633Z - Role validation passed
+[AUTH] 2026-01-06T16:00:47.628Z - Header: Present
+[AUTH] 2026-01-06T16:00:47.629Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:00:47.630Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:00:47.630Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:00:47.631Z - Role validation passed
+[AUTH] 2026-01-06T16:00:53.627Z - Header: Present
+[AUTH] 2026-01-06T16:00:53.630Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:00:53.631Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:00:53.631Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:00:53.631Z - Role validation passed
+[AUTH] 2026-01-06T16:00:59.635Z - Header: Present
+[AUTH] 2026-01-06T16:00:59.637Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:00:59.637Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:00:59.637Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:00:59.637Z - Role validation passed
+[AUTH] 2026-01-06T16:01:05.629Z - Header: Present
+[AUTH] 2026-01-06T16:01:05.630Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:01:05.630Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:01:05.630Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:01:05.631Z - Role validation passed
+[AUTH] 2026-01-06T16:01:11.629Z - Header: Present
+[AUTH] 2026-01-06T16:01:11.632Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:01:11.632Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:01:11.632Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:01:11.633Z - Role validation passed
+[AUTH] 2026-01-06T16:01:17.619Z - Header: Present
+[AUTH] 2026-01-06T16:01:17.622Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:01:17.622Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:01:17.622Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:01:17.623Z - Role validation passed
+[AUTH] 2026-01-06T16:01:23.629Z - Header: Present
+[AUTH] 2026-01-06T16:01:23.631Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:01:23.632Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:01:23.632Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:01:23.632Z - Role validation passed
+[AUTH] 2026-01-06T16:01:29.635Z - Header: Present
+[AUTH] 2026-01-06T16:01:29.637Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:01:29.638Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:01:29.638Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:01:29.638Z - Role validation passed
+[AUTH] 2026-01-06T16:01:35.634Z - Header: Present
+[AUTH] 2026-01-06T16:01:35.636Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:01:35.636Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:01:35.636Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:01:35.636Z - Role validation passed
+[AUTH] 2026-01-06T16:01:41.634Z - Header: Present
+[AUTH] 2026-01-06T16:01:41.637Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:01:41.638Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:01:41.638Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:01:41.638Z - Role validation passed
+[AUTH] 2026-01-06T16:01:47.632Z - Header: Present
+[AUTH] 2026-01-06T16:01:47.633Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:01:47.634Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:01:47.634Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:01:47.634Z - Role validation passed
+[AUTH] 2026-01-06T16:01:53.628Z - Header: Present
+[AUTH] 2026-01-06T16:01:53.629Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:01:53.629Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:01:53.629Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:01:53.629Z - Role validation passed
+[AUTH] 2026-01-06T16:01:59.621Z - Header: Present
+[AUTH] 2026-01-06T16:01:59.623Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:01:59.623Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:01:59.623Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:01:59.624Z - Role validation passed
+[AUTH] 2026-01-06T16:02:05.624Z - Header: Present
+[AUTH] 2026-01-06T16:02:05.626Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:02:05.626Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:02:05.627Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:02:05.627Z - Role validation passed
+[AUTH] 2026-01-06T16:02:11.628Z - Header: Present
+[AUTH] 2026-01-06T16:02:11.630Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:02:11.630Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:02:11.630Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:02:11.630Z - Role validation passed
+[AUTH] 2026-01-06T16:02:16.658Z - Header: Present
+[AUTH] 2026-01-06T16:02:16.660Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:02:16.661Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:02:16.661Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:02:16.661Z - Role validation passed
+[AUTH] 2026-01-06T16:02:22.624Z - Header: Present
+[AUTH] 2026-01-06T16:02:22.627Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:02:22.628Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:02:22.628Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:02:22.628Z - Role validation passed
+[AUTH] 2026-01-06T16:02:27.748Z - Header: Present
+[AUTH] 2026-01-06T16:02:27.751Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:02:27.751Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:02:27.752Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:02:27.752Z - Role validation passed
+[AUTH] 2026-01-06T16:02:33.625Z - Header: Present
+[AUTH] 2026-01-06T16:02:33.627Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:02:33.628Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:02:33.628Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:02:33.629Z - Role validation passed
+[AUTH] 2026-01-06T16:02:39.624Z - Header: Present
+[AUTH] 2026-01-06T16:02:39.626Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:02:39.626Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:02:39.626Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:02:39.627Z - Role validation passed
+[AUTH] 2026-01-06T16:02:45.665Z - Header: Present
+[AUTH] 2026-01-06T16:02:45.667Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:02:45.667Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:02:45.668Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:02:45.668Z - Role validation passed
+[AUTH] 2026-01-06T16:02:51.633Z - Header: Present
+[AUTH] 2026-01-06T16:02:51.636Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:02:51.636Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:02:51.637Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:02:51.637Z - Role validation passed
+[AUTH] 2026-01-06T16:02:57.625Z - Header: Present
+[AUTH] 2026-01-06T16:02:57.626Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:02:57.627Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:02:57.627Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:02:57.627Z - Role validation passed
+[AUTH] 2026-01-06T16:03:03.621Z - Header: Present
+[AUTH] 2026-01-06T16:03:03.622Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:03:03.622Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:03:03.622Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:03:03.623Z - Role validation passed
+[AUTH] 2026-01-06T16:03:09.636Z - Header: Present
+[AUTH] 2026-01-06T16:03:09.637Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:03:09.637Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:03:09.637Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:03:09.637Z - Role validation passed
+[AUTH] 2026-01-06T16:03:15.622Z - Header: Present
+[AUTH] 2026-01-06T16:03:15.624Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:03:15.624Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:03:15.624Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:03:15.624Z - Role validation passed
+[AUTH] 2026-01-06T16:03:21.626Z - Header: Present
+[AUTH] 2026-01-06T16:03:21.628Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:03:21.628Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:03:21.628Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:03:21.629Z - Role validation passed
+[AUTH] 2026-01-06T16:03:27.619Z - Header: Present
+[AUTH] 2026-01-06T16:03:27.620Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:03:27.621Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:03:27.621Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:03:27.621Z - Role validation passed
+[AUTH] 2026-01-06T16:03:33.632Z - Header: Present
+[AUTH] 2026-01-06T16:03:33.633Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:03:33.634Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:03:33.634Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:03:33.634Z - Role validation passed
+[AUTH] 2026-01-06T16:03:39.619Z - Header: Present
+[AUTH] 2026-01-06T16:03:39.621Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:03:39.621Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:03:39.622Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:03:39.622Z - Role validation passed
+[AUTH] 2026-01-06T16:03:45.625Z - Header: Present
+[AUTH] 2026-01-06T16:03:45.626Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:03:45.627Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:03:45.627Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:03:45.627Z - Role validation passed
+[AUTH] 2026-01-06T16:03:51.628Z - Header: Present
+[AUTH] 2026-01-06T16:03:51.629Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:03:51.629Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:03:51.629Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:03:51.629Z - Role validation passed
+[AUTH] 2026-01-06T16:03:57.623Z - Header: Present
+[AUTH] 2026-01-06T16:03:57.625Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:03:57.625Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:03:57.626Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:03:57.626Z - Role validation passed
+[AUTH] 2026-01-06T16:04:03.630Z - Header: Present
+[AUTH] 2026-01-06T16:04:03.632Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:04:03.632Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:04:03.632Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:04:03.632Z - Role validation passed
+[AUTH] 2026-01-06T16:04:05.173Z - Header: Missing
+[AUTH] 2026-01-06T16:04:05.173Z - Error: Authentication required.
+[AUTH] 2026-01-06T16:04:09.629Z - Header: Present
+[AUTH] 2026-01-06T16:04:09.631Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:04:09.631Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:04:09.631Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:04:09.631Z - Role validation passed
+[AUTH] 2026-01-06T16:04:15.624Z - Header: Present
+[AUTH] 2026-01-06T16:04:15.626Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:04:15.626Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:04:15.627Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:04:15.627Z - Role validation passed
+[AUTH] 2026-01-06T16:04:21.622Z - Header: Present
+[AUTH] 2026-01-06T16:04:21.625Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:04:21.626Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:04:21.626Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:04:21.627Z - Role validation passed
+[AUTH] 2026-01-06T16:04:27.634Z - Header: Present
+[AUTH] 2026-01-06T16:04:27.635Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:04:27.635Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:04:27.635Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:04:27.636Z - Role validation passed
+[AUTH] 2026-01-06T16:04:33.622Z - Header: Present
+[AUTH] 2026-01-06T16:04:33.624Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:04:33.624Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:04:33.624Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:04:33.624Z - Role validation passed
+[AUTH] 2026-01-06T16:04:39.624Z - Header: Present
+[AUTH] 2026-01-06T16:04:39.625Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:04:39.626Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:04:39.626Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:04:39.626Z - Role validation passed
+[AUTH] 2026-01-06T16:04:45.622Z - Header: Present
+[AUTH] 2026-01-06T16:04:45.623Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:04:45.624Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:04:45.624Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:04:45.624Z - Role validation passed
+[AUTH] 2026-01-06T16:04:51.620Z - Header: Present
+[AUTH] 2026-01-06T16:04:51.621Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:04:51.621Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:04:51.622Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:04:51.622Z - Role validation passed
+[AUTH] 2026-01-06T16:04:57.622Z - Header: Present
+[AUTH] 2026-01-06T16:04:57.623Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:04:57.624Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:04:57.624Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:04:57.624Z - Role validation passed
+[AUTH] 2026-01-06T16:05:03.621Z - Header: Present
+[AUTH] 2026-01-06T16:05:03.622Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:05:03.622Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:05:03.622Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:05:03.622Z - Role validation passed
+[AUTH] 2026-01-06T16:05:09.684Z - Header: Present
+[AUTH] 2026-01-06T16:05:09.686Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:05:09.686Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:05:09.686Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:05:09.687Z - Role validation passed
+[AUTH] 2026-01-06T16:05:15.628Z - Header: Present
+[AUTH] 2026-01-06T16:05:15.629Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:05:15.629Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:05:15.629Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:05:15.630Z - Role validation passed
+[AUTH] 2026-01-06T16:05:21.320Z - Header: Missing
+[AUTH] 2026-01-06T16:05:21.320Z - Error: Authentication required.
+[AUTH] 2026-01-06T16:05:21.629Z - Header: Present
+[AUTH] 2026-01-06T16:05:21.631Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:05:21.631Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:05:21.632Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:05:21.632Z - Role validation passed
+[AUTH] 2026-01-06T16:05:27.630Z - Header: Present
+[AUTH] 2026-01-06T16:05:27.631Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:05:27.632Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:05:27.632Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:05:27.632Z - Role validation passed
+[AUTH] 2026-01-06T16:05:33.624Z - Header: Present
+[AUTH] 2026-01-06T16:05:33.625Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:05:33.626Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:05:33.626Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:05:33.626Z - Role validation passed
+[AUTH] 2026-01-06T16:05:39.629Z - Header: Present
+[AUTH] 2026-01-06T16:05:39.630Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:05:39.630Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:05:39.630Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:05:39.631Z - Role validation passed
+[AUTH] 2026-01-06T16:05:45.634Z - Header: Present
+[AUTH] 2026-01-06T16:05:45.636Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:05:45.637Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:05:45.637Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:05:45.637Z - Role validation passed
+[AUTH] 2026-01-06T16:05:51.626Z - Header: Present
+[AUTH] 2026-01-06T16:05:51.629Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:05:51.630Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:05:51.630Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:05:51.630Z - Role validation passed
+[AUTH] 2026-01-06T16:05:57.212Z - Header: Present
+[AUTH] 2026-01-06T16:05:57.215Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:05:57.215Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:05:57.215Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:05:57.216Z - Role validation passed
+[AUTH] 2026-01-06T16:06:02.628Z - Header: Present
+[AUTH] 2026-01-06T16:06:02.629Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:06:02.630Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:06:02.630Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:06:02.630Z - Role validation passed
+[AUTH] 2026-01-06T16:06:08.632Z - Header: Present
+[AUTH] 2026-01-06T16:06:08.634Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:06:08.634Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:06:08.634Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:06:08.634Z - Role validation passed
+[AUTH] 2026-01-06T16:06:14.629Z - Header: Present
+[AUTH] 2026-01-06T16:06:14.631Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:06:14.631Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:06:14.631Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:06:14.631Z - Role validation passed
+[AUTH] 2026-01-06T16:06:20.638Z - Header: Present
+[AUTH] 2026-01-06T16:06:20.640Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:06:20.641Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:06:20.641Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:06:20.642Z - Role validation passed
+[AUTH] 2026-01-06T16:14:31.200Z - Header: Missing
+[AUTH] 2026-01-06T16:14:31.201Z - Error: Authentication required.
+[AUTH] 2026-01-06T16:14:31.307Z - Header: Missing
+[AUTH] 2026-01-06T16:14:31.307Z - Error: Authentication required.
+[AUTH] 2026-01-06T16:14:39.224Z - Header: Missing
+[AUTH] 2026-01-06T16:14:39.224Z - Error: Authentication required.
+[AUTH] 2026-01-06T16:14:39.253Z - Header: Missing
+[AUTH] 2026-01-06T16:14:39.253Z - Error: Authentication required.
+[AUTH] 2026-01-06T16:19:35.939Z - Header: Missing
+[AUTH] 2026-01-06T16:19:35.940Z - Error: Authentication required.
+[AUTH] 2026-01-06T16:19:35.981Z - Header: Missing
+[AUTH] 2026-01-06T16:19:35.981Z - Error: Authentication required.
+[AUTH] 2026-01-06T16:19:37.274Z - Header: Missing
+[AUTH] 2026-01-06T16:19:37.274Z - Error: Authentication required.
+[AUTH] 2026-01-06T16:19:37.307Z - Header: Missing
+[AUTH] 2026-01-06T16:19:37.308Z - Error: Authentication required.
+[AUTH] 2026-01-06T16:19:38.164Z - Header: Missing
+[AUTH] 2026-01-06T16:19:38.165Z - Error: Authentication required.
+[AUTH] 2026-01-06T16:19:38.192Z - Header: Missing
+[AUTH] 2026-01-06T16:19:38.193Z - Error: Authentication required.
+[AUTH] 2026-01-06T16:20:09.894Z - Header: Present
+[AUTH] 2026-01-06T16:20:09.928Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:20:09.930Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:20:09.930Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:20:09.931Z - Role validation passed
+[AUTH] 2026-01-06T16:22:26.652Z - Header: Present
+[AUTH] 2026-01-06T16:22:26.655Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-06T16:22:26.656Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-06T16:22:26.657Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-06T16:22:26.657Z - Role validation passed
+[AUTH] 2026-01-07T17:12:33.417Z - Header: Missing
+[AUTH] 2026-01-07T17:12:33.420Z - Error: Authentication required.
+[AUTH] 2026-01-07T17:12:33.846Z - Header: Missing
+[AUTH] 2026-01-07T17:12:33.846Z - Error: Authentication required.
+[AUTH] 2026-01-07T17:12:40.059Z - Header: Present
+[AUTH] 2026-01-07T17:12:40.063Z - Error: invalid signature
+[AUTH] 2026-01-07T17:13:03.295Z - Header: Present
+[AUTH] 2026-01-07T17:13:03.297Z - Error: invalid signature
+[AUTH] 2026-01-07T17:13:11.783Z - Header: Present
+[AUTH] 2026-01-07T17:13:11.785Z - Error: invalid signature
+[AUTH] 2026-01-07T17:15:01.590Z - Header: Present
+[AUTH] 2026-01-07T17:15:01.598Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-07T17:15:01.600Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-07T17:15:01.601Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-07T17:15:01.602Z - Role validation passed
+[AUTH] 2026-01-07T17:15:01.685Z - Header: Present
+[AUTH] 2026-01-07T17:15:01.689Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-07T17:15:01.690Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-07T17:15:01.690Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-07T17:15:01.691Z - Role validation passed
+[AUTH] 2026-01-07T17:21:26.222Z - Header: Present
+[AUTH] 2026-01-07T17:21:26.224Z - Error: invalid signature
+[AUTH] 2026-01-07T17:28:37.978Z - Header: Present
+[AUTH] 2026-01-07T17:28:37.980Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[AUTH] 2026-01-07T17:28:37.995Z - Header: Present
+[AUTH] 2026-01-07T17:28:37.997Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[AUTH] 2026-01-07T17:28:41.769Z - Header: Present
+[AUTH] 2026-01-07T17:28:41.775Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-07T17:28:41.777Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-07T17:28:41.778Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-07T17:28:41.778Z - Role validation passed
+[AUTH] 2026-01-07T17:28:41.796Z - Header: Present
+[AUTH] 2026-01-07T17:28:41.800Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-07T17:28:41.801Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-07T17:28:41.801Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-07T17:28:41.801Z - Role validation passed
+[AUTH] 2026-01-07T17:28:48.502Z - Header: Present
+[AUTH] 2026-01-07T17:28:48.504Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-07T17:28:48.505Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-07T17:28:48.505Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-07T17:28:48.506Z - Role validation passed
+[AUTH] 2026-01-07T17:30:38.542Z - Header: Present
+[AUTH] 2026-01-07T17:30:38.544Z - Error: invalid signature
+[AUTH] 2026-01-07T17:30:56.987Z - Header: Present
+[AUTH] 2026-01-07T17:30:56.989Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-07T17:30:56.989Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-07T17:30:56.989Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-07T17:30:56.990Z - Role validation passed
+[AUTH] 2026-01-07T17:31:14.070Z - Header: Missing
+[AUTH] 2026-01-07T17:31:14.071Z - Error: Authentication required.
+[AUTH] 2026-01-07T17:31:14.397Z - Header: Missing
+[AUTH] 2026-01-07T17:31:14.397Z - Error: Authentication required.
+[AUTH] 2026-01-07T17:31:31.795Z - Header: Present
+[AUTH] 2026-01-07T17:31:31.797Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[AUTH] 2026-01-07T17:32:13.499Z - Header: Present
+[AUTH] 2026-01-07T17:32:13.501Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[AUTH] 2026-01-07T17:32:24.495Z - Header: Present
+[AUTH] 2026-01-07T17:32:24.498Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[AUTH] 2026-01-07T17:32:37.758Z - Header: Present
+[AUTH] 2026-01-07T17:32:37.760Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[AUTH] 2026-01-07T17:32:43.718Z - Header: Missing
+[AUTH] 2026-01-07T17:32:43.719Z - Error: Authentication required.
+[AUTH] 2026-01-07T19:05:18.848Z - Header: Present
+[AUTH] 2026-01-07T19:05:18.850Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[AUTH] 2026-01-07T19:05:19.049Z - Header: Present
+[AUTH] 2026-01-07T19:05:19.051Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[AUTH] 2026-01-07T19:05:19.055Z - Header: Present
+[AUTH] 2026-01-07T19:05:19.057Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[AUTH] 2026-01-07T19:05:19.062Z - Header: Present
+[AUTH] 2026-01-07T19:05:19.063Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[AUTH] 2026-01-07T19:25:46.228Z - Header: Present
+[AUTH] 2026-01-07T19:25:46.230Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[AUTH] 2026-01-07T19:25:46.321Z - Header: Present
+[AUTH] 2026-01-07T19:25:46.324Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[AUTH] 2026-01-07T19:25:46.334Z - Header: Present
+[AUTH] 2026-01-07T19:25:46.338Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[AUTH] 2026-01-07T19:25:46.348Z - Header: Present
+[AUTH] 2026-01-07T19:25:46.349Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[AUTH] 2026-01-07T19:43:52.927Z - Header: Present
+[AUTH] 2026-01-07T19:43:52.929Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[AUTH] 2026-01-07T19:44:14.328Z - Header: Present
+[AUTH] 2026-01-07T19:44:14.330Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[AUTH] 2026-01-07T19:44:18.487Z - Header: Present
+[AUTH] 2026-01-07T19:44:18.490Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[AUTH] 2026-01-07T20:02:08.469Z - Header: Present
+[AUTH] 2026-01-07T20:02:08.472Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[AUTH] 2026-01-07T20:02:08.660Z - Header: Present
+[AUTH] 2026-01-07T20:02:08.662Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[AUTH] 2026-01-07T20:02:08.670Z - Header: Present
+[AUTH] 2026-01-07T20:02:08.672Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[AUTH] 2026-01-07T20:02:08.678Z - Header: Present
+[AUTH] 2026-01-07T20:02:08.681Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[AUTH] 2026-01-07T20:02:14.176Z - Header: Present
+[AUTH] 2026-01-07T20:02:14.184Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-07T20:02:14.185Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-07T20:02:14.185Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-07T20:02:14.186Z - Role validation passed
+[AUTH] 2026-01-07T20:02:14.200Z - Header: Present
+[AUTH] 2026-01-07T20:02:14.202Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-07T20:02:14.203Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-07T20:02:14.203Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-07T20:02:14.204Z - Role validation passed
+[AUTH] 2026-01-07T20:02:32.255Z - Header: Present
+[AUTH] 2026-01-07T20:02:32.257Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-07T20:02:32.258Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-07T20:02:32.258Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-07T20:02:32.258Z - Role validation passed
+[AUTH] 2026-01-11T21:46:15.601Z - Header: Present
+[AUTH] 2026-01-11T21:46:15.605Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[AUTH] 2026-01-11T21:46:15.620Z - Header: Present
+[AUTH] 2026-01-11T21:46:15.623Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[AUTH] 2026-01-11T21:46:17.975Z - Header: Present
+[AUTH] 2026-01-11T21:46:17.977Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-11T21:46:17.978Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-11T21:46:17.979Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-11T21:46:17.979Z - Role validation passed
+[AUTH] 2026-01-11T21:46:18.000Z - Header: Present
+[AUTH] 2026-01-11T21:46:18.002Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-11T21:46:18.003Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-11T21:46:18.003Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-11T21:46:18.004Z - Role validation passed
+[AUTH] 2026-01-11T21:46:23.833Z - Header: Present
+[AUTH] 2026-01-11T21:46:23.835Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-11T21:46:23.835Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-11T21:46:23.835Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-11T21:46:23.835Z - Role validation passed
+[AUTH] 2026-01-11T21:46:43.883Z - Header: Present
+[AUTH] 2026-01-11T21:46:43.885Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-11T21:46:43.886Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-11T21:46:43.886Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-11T21:46:43.886Z - Role validation passed
+[AUTH] 2026-01-11T21:54:22.857Z - Header: Present
+[AUTH] 2026-01-11T21:54:22.860Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[AUTH] 2026-01-11T21:54:22.892Z - Header: Present
+[AUTH] 2026-01-11T21:54:22.893Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[AUTH] 2026-01-11T21:54:26.337Z - Header: Present
+[AUTH] 2026-01-11T21:54:26.343Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-11T21:54:26.346Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-11T21:54:26.346Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-11T21:54:26.347Z - Role validation passed
+[AUTH] 2026-01-11T21:54:26.365Z - Header: Present
+[AUTH] 2026-01-11T21:54:26.367Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-11T21:54:26.367Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-11T21:54:26.367Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-11T21:54:26.368Z - Role validation passed
+[AUTH] 2026-01-11T21:54:31.236Z - Header: Present
+[AUTH] 2026-01-11T21:54:31.238Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-11T21:54:31.239Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-11T21:54:31.239Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-11T21:54:31.240Z - Role validation passed
+[AUTH] 2026-01-11T21:55:32.732Z - Header: Present
+[AUTH] 2026-01-11T21:55:32.741Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-11T21:55:32.742Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-11T21:55:32.742Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-11T21:55:32.743Z - Role validation passed
+[AUTH] 2026-01-11T21:55:32.759Z - Header: Present
+[AUTH] 2026-01-11T21:55:32.761Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-11T21:55:32.762Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-11T21:55:32.762Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-11T21:55:32.763Z - Role validation passed
+[AUTH] 2026-01-11T21:56:13.477Z - Header: Present
+[AUTH] 2026-01-11T21:56:13.479Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-11T21:56:13.479Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-11T21:56:13.479Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-11T21:56:13.480Z - Role validation passed
+[AUTH] 2026-01-11T21:56:48.125Z - Header: Present
+[AUTH] 2026-01-11T21:56:48.127Z - User: {"id":3,"role":"SUPER_ADMIN","org_id":1}
+[ROLE] 2026-01-11T21:56:48.127Z - Checking roles: ADMIN, SUPER_ADMIN
+[ROLE] 2026-01-11T21:56:48.128Z - User role: SUPER_ADMIN
+[ROLE] 2026-01-11T21:56:48.128Z - Role validation passed

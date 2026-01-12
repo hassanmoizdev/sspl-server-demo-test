@@ -1,0 +1,9 @@
+node_modules
+dist
+# Keep environment variables out of version control
+.env
+uploads
+
+# Firebase credentials - NEVER commit these!
+firebase-service-account.json
+AuthKey_VBKG3RSN8U.p8
